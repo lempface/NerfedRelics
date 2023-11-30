@@ -2,6 +2,21 @@
 # NerfedRelics
 Slay the Spire all vanilla relics nerfed!
 
+## Starter Relics
+
+### Burning Blood
+- ~~At the end of combat, heal 6 HP.~~
+- If you lost HP during combat, at the end of combat, heal 6 HP.
+### Ring of the Snake
+- ~~At the start of each combat, draw 2 additional cards.~~
+- The first 2 turns of each combat, draw 1 additional card.
+### Cracked Core
+- ~~At the start of each combat, Channel 1 Lightning.~~
+- When you play a card, add a charge to Cracked Core. Once per combat, at 7 charges evoke your next Orb and channel 1 Lightning.
+### Pure Water
+- ~~At the start of each combat, add a Miracle to your hand.~~
+- Once per combat, if you end your turn with unspent energy, add a Miracle to your hand.
+  
 ## Common Relics
 
 ### Akabeko
